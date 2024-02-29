@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "KAa+U0UyFJexSg/hR9Y3xx3cshRl//uN9UN3uSfuRAnxPHI4/hDJpmkV7dwuh16QgIORLrUdDx/OgR9qBqIW7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\a879943\\OneDrive - Atos\\Documents\\Pessoal\\PROJETOSCURSOS\\ACELERA\\DESAFIOFINAL\\Sicoob-app-backend\\Sicoob.API.Auth\\Sicoob.API.Auth.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a879943\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
+    "C:\\Users\\a879943\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\a879943\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\a879943\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\a879943\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\a879943\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\a879943\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
