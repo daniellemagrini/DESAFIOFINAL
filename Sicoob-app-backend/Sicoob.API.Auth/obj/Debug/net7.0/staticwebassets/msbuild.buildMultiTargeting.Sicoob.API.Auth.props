@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Sicoob.API.Auth.props" />
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Sicoob.API.AuthT.props" />
+</Project>
