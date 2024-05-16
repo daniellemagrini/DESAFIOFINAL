@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "h4Lbm8vGrHncBf/faUzk7W5Dm0yAIRSYXouC4ERD88ZlyBzcnZNZdFVhEy/T3yhObY3T2UFYVKNz6i+zb1zi+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\a879943\\OneDrive - Atos\\Documents\\Pessoal\\PROJETOSCURSOS\\ACELERA\\DESAFIOFINAL\\Sicoob-app-backend\\OTPGenerate\\OTPGenerate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a879943\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\a879943\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\a879943\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\a879943\\.nuget\\packages\\otp.net\\1.4.0\\otp.net.1.4.0.nupkg.sha512",
+    "C:\\Users\\a879943\\.nuget\\packages\\qrcoder\\1.5.1\\qrcoder.1.5.1.nupkg.sha512",
+    "C:\\Users\\a879943\\.nuget\\packages\\qrcoder.core\\1.0.3\\qrcoder.core.1.0.3.nupkg.sha512",
+    "C:\\Users\\a879943\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\a879943\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\a879943\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\a879943\\.nuget\\packages\\system.text.encoding.codepages\\8.0.0\\system.text.encoding.codepages.8.0.0.nupkg.sha512",
+    "C:\\Users\\a879943\\.nuget\\packages\\system.text.encoding.extensions\\4.3.0\\system.text.encoding.extensions.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

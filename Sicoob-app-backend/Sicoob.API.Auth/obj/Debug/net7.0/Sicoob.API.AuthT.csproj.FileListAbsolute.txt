@@ -9,7 +9,9 @@ C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFI
 C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\Sicoob.API.Auth\bin\Debug\net7.0\Azure.Identity.dll
 C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\Sicoob.API.Auth\bin\Debug\net7.0\Azure.Security.KeyVault.Certificates.dll
 C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\Sicoob.API.Auth\bin\Debug\net7.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\Sicoob.API.Auth\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
 C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\Sicoob.API.Auth\bin\Debug\net7.0\Humanizer.dll
+C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\Sicoob.API.Auth\bin\Debug\net7.0\MailKit.dll
 C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\Sicoob.API.Auth\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\Sicoob.API.Auth\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
 C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\Sicoob.API.Auth\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
@@ -44,6 +46,7 @@ C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFI
 C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\Sicoob.API.Auth\bin\Debug\net7.0\Microsoft.OpenApi.dll
 C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\Sicoob.API.Auth\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
 C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\Sicoob.API.Auth\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\Sicoob.API.Auth\bin\Debug\net7.0\MimeKit.dll
 C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\Sicoob.API.Auth\bin\Debug\net7.0\Mono.TextTemplating.dll
 C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\Sicoob.API.Auth\bin\Debug\net7.0\Pipelines.Sockets.Unofficial.dll
 C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\Sicoob.API.Auth\bin\Debug\net7.0\Scrutor.dll
@@ -57,6 +60,7 @@ C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFI
 C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\Sicoob.API.Auth\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
 C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\Sicoob.API.Auth\bin\Debug\net7.0\System.Diagnostics.PerformanceCounter.dll
 C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\Sicoob.API.Auth\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\Sicoob.API.Auth\bin\Debug\net7.0\System.Formats.Asn1.dll
 C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\Sicoob.API.Auth\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\Sicoob.API.Auth\bin\Debug\net7.0\System.Memory.Data.dll
 C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\Sicoob.API.Auth\bin\Debug\net7.0\System.Runtime.Caching.dll
@@ -64,6 +68,7 @@ C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFI
 C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\Sicoob.API.Auth\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\Sicoob.API.Auth\bin\Debug\net7.0\System.Security.Cryptography.Xml.dll
 C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\Sicoob.API.Auth\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\Sicoob.API.Auth\bin\Debug\net7.0\System.Text.Encoding.CodePages.dll
 C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\Sicoob.API.Auth\bin\Debug\net7.0\System.Windows.Extensions.dll
 C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\Sicoob.API.Auth\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
 C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\Sicoob.API.Auth\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
@@ -78,6 +83,7 @@ C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFI
 C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\Sicoob.API.Auth\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\Sicoob.API.Auth\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
 C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\Sicoob.API.Auth\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\Sicoob.API.Auth\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Text.Encoding.CodePages.dll
 C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\Sicoob.API.Auth\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\Sicoob.API.Auth\obj\Debug\net7.0\Sicoob.API.AuthT.csproj.AssemblyReference.cache
 C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\Sicoob.API.Auth\obj\Debug\net7.0\Sicoob.API.AuthT.GeneratedMSBuildEditorConfig.editorconfig

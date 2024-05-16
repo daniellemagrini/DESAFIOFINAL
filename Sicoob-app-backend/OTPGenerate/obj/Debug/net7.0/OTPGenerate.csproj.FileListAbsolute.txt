@@ -1,0 +1,12 @@
+C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\OTPGenerate\bin\Debug\net7.0\OTPGenerate.deps.json
+C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\OTPGenerate\bin\Debug\net7.0\OTPGenerate.dll
+C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\OTPGenerate\bin\Debug\net7.0\OTPGenerate.pdb
+C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\OTPGenerate\obj\Debug\net7.0\OTPGenerate.csproj.AssemblyReference.cache
+C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\OTPGenerate\obj\Debug\net7.0\OTPGenerate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\OTPGenerate\obj\Debug\net7.0\OTPGenerate.AssemblyInfoInputs.cache
+C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\OTPGenerate\obj\Debug\net7.0\OTPGenerate.AssemblyInfo.cs
+C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\OTPGenerate\obj\Debug\net7.0\OTPGenerate.csproj.CoreCompileInputs.cache
+C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\OTPGenerate\obj\Debug\net7.0\OTPGenerate.dll
+C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\OTPGenerate\obj\Debug\net7.0\refint\OTPGenerate.dll
+C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\OTPGenerate\obj\Debug\net7.0\OTPGenerate.pdb
+C:\Users\a879943\OneDrive - Atos\Documents\Pessoal\PROJETOSCURSOS\ACELERA\DESAFIOFINAL\Sicoob-app-backend\OTPGenerate\obj\Debug\net7.0\ref\OTPGenerate.dll
